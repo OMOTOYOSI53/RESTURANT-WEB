@@ -44,8 +44,8 @@ A professional, modern, responsive, and functional four-page website for **BLESS
 
 1. Clone repository:
    ```bash
-   git clone https://github.com/OMOTOYOSI53/my-portfolio.git
-   cd my-portfolio
+   git clone https://github.com/OMOTOYOSI53/RESTURANT-WEB.git
+   cd RESTURANT-WEB
    ```
 
 2. Install dependencies:
